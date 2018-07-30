@@ -1,0 +1,9 @@
+t=0:0.001:10;
+a1=10;
+f1=1;
+s1=a1*sin(2.*pi.*f1.*t);
+subplot(3,1,1);
+plot(t,s1);
+xlabel('Time');
+ylabel('Amplitude');
+title('sin(x)');
