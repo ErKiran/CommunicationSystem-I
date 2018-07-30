@@ -10,4 +10,6 @@ After inserting sutiable and relatiable values we can obtain plot like this
 We can visualise DSB-SC like 
 
 ![DSB](./images/Screenshot_10.png)
+![DSB](./images/Screenshot_11.png)
+
 
